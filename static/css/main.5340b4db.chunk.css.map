@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,QACE,SAAU","file":"main.5340b4db.chunk.css","sourcesContent":["// not empty\n.active {\n  color: red;\n}\n"]}
